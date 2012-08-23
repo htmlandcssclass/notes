@@ -30,3 +30,7 @@ Properties
 
 Properties change the appearance of elements.
 They end in semi-colons. 
+
+
+Specificity
+-----------
