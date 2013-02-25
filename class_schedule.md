@@ -7,15 +7,15 @@ x Hello, world!
 	- css
 x Eames
 	- h1, p, img
-	- 
-o Homework: Tron and nametag
+	-
+x Homework: Tron and nametag
 
 class 2
 -------
-o God of Small Things
+x God of Small Things
 	- background, border, color
 	* make book cover link to amazon
-o SciFi Bibliography
+x SciFi Bibliography
 	- display: inline, block
 o Homework?
 
@@ -34,20 +34,20 @@ o Suggest-o-tron
 	- float: left, clear
 	- typography
 o Margin and Padding
-o homework: 
+o homework:
 	- Finish margin and padding
 
 class 5
 -------
 o position: absolute, relative, fixed
-o homework: 
+o homework:
 
 class 6
 -------
 o :hover, dropdown menu
 
 Homework:
-o Super Secret Private Beta blog 
+o Super Secret Private Beta blog
 	- real-world page layout
 	- fancy css3
 
