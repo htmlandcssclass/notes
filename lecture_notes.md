@@ -3,7 +3,7 @@
   - You have to make lots of stuff.
   - Make stuff with other people
   - Attend or volunteer for Railsbridge Front end
-- Preview why Clou9, why it might not work, and why my might switch
+- Preview why Cloud9, why it might not work, and why my might switch
 - Introductions
 - Box model
 - Class preview
